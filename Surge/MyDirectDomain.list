@@ -2,4 +2,6 @@
 
 # 自建服务
 DOMAIN-SUFFIX,home.sciencesaru.cn
+DOMAIN-SUFFIX,home4.sciencesaru.cn
+DOMAIN-SUFFIX,wg.sciencesaru.cn
 DOMAIN-SUFFIX,vaultwarden.sciencesaru.cn
