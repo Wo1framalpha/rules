@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,nvcr.io
 DOMAIN-SUFFIX,quay.io
+
+DOMAIN-KEYWORD,.s3.
+DOMAIN-KEYWORD,.objectstorage.
