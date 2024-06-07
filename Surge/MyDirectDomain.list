@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,home.sciencesaru.cn
 DOMAIN-SUFFIX,home4.sciencesaru.cn
 DOMAIN-SUFFIX,wg.sciencesaru.cn
 DOMAIN-SUFFIX,vaultwarden.sciencesaru.cn
+
+# CF测速
+DOMAIN-SUFFIX,speed.cloudflare.com
