@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,production.cloudflare.docker.com
 
 DOMAIN-KEYWORD,.s3.
 DOMAIN-KEYWORD,.objectstorage.
+
+DOMAIN-SUFFIX,bili.bili.rip
