@@ -8,3 +8,10 @@ DOMAIN-SUFFIX,vaultwarden.sciencesaru.cn
 
 # CF测速
 DOMAIN-SUFFIX,speed.cloudflare.com
+
+# Github直连
+DOMAIN-SUFFIX,ghproxy.cc
+DOMAIN-SUFFIX,sciproxy.com
+DOMAIN-SUFFIX,ghproxy.cn
+DOMAIN-SUFFIX,slink.ltd
+DOMAIN-SUFFIX,hub.gitmirror.com
