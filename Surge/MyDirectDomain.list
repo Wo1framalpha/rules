@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,vaultwarden.sciencesaru.cn
 DOMAIN-SUFFIX,speed.cloudflare.com
 
 # Github直连
-DOMAIN-SUFFIX,ghproxy.cc
+DOMAIN-KEYWORD,ghproxy
 DOMAIN-SUFFIX,sciproxy.com
-DOMAIN-SUFFIX,ghproxy.cn
-DOMAIN-SUFFIX,slink.ltd
-DOMAIN-SUFFIX,hub.gitmirror.com
+DOMAIN-SUFFIX,gitmirror.com
