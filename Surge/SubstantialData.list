@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,production.cloudflare.docker.com
 
 DOMAIN-KEYWORD,.s3.
 DOMAIN-KEYWORD,.objectstorage.
+
+# emby站
+DOMAIN-SUFFIX,hxd.as174.com
