@@ -1,2 +1,5 @@
 DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,bitget
+
+PROCESS-NAME,*bybit*
+PROCESS-NAME,*bitget*
