@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-KEYWORD,ghproxy
 DOMAIN-SUFFIX,sciproxy.com
 DOMAIN-SUFFIX,gitmirror.com
+
+DOMAIN-SUFFIX,hf-mirror.com
