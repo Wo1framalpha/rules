@@ -11,7 +11,10 @@ DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,nvcr.io
 DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,mcr.microsoft.com
 DOMAIN-SUFFIX,production.cloudflare.docker.com
+
+DOMAIN,dl-cdn.alpinelinux.org
 
 DOMAIN-KEYWORD,.s3.
 DOMAIN-KEYWORD,.objectstorage.
