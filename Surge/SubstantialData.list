@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,cdn-lfs.huggingface.co
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 
 DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
 DOMAIN-SUFFIX,googlevideo.com
 
