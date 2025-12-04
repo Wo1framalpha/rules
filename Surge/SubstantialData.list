@@ -3,7 +3,10 @@ DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN,pkg-containers.githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
+
 DOMAIN-SUFFIX,googlevideo.com
 
 DOMAIN-SUFFIX,download-cdn.jetbrains.com
@@ -25,3 +28,5 @@ DOMAIN-SUFFIX,hxd.as174.com
 
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,phncdn.com
+
+DOMAIN-SUFFIX,civitai.com
