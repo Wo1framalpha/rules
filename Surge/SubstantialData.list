@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
 
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,storage.googleapis.com
 
 DOMAIN-SUFFIX,download-cdn.jetbrains.com
 
@@ -20,13 +21,11 @@ DOMAIN-SUFFIX,production.cloudflare.docker.com
 
 DOMAIN,dl-cdn.alpinelinux.org
 
-DOMAIN-KEYWORD,.s3.
-DOMAIN-KEYWORD,.objectstorage.
-
 # emby站
 DOMAIN-SUFFIX,hxd.as174.com
 
 DOMAIN-SUFFIX,mypikpak.com
+
 DOMAIN-SUFFIX,phncdn.com
 
 DOMAIN-SUFFIX,civitai.com
