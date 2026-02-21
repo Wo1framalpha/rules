@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
 
+DOMAIN-SUFFIX,gallerycdn.vsassets.io
+
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
 
 DOMAIN-SUFFIX,googlevideo.com
