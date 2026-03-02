@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN,pkg-containers.githubusercontent.com
+DOMAIN,release-assets.githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
 
 DOMAIN-SUFFIX,gallerycdn.vsassets.io
