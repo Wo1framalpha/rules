@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,nvcr.io
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,mcr.microsoft.com
 DOMAIN-SUFFIX,production.cloudflare.docker.com
+DOMAIN-SUFFIX,production.cloudfront.docker.com
 
 DOMAIN,dl-cdn.alpinelinux.org
 
