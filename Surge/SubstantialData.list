@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,r2.cloudflarestorage.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,storage.googleapis.com
 
+DOMAIN-SUFFIX,download.nvidia.com
+
 DOMAIN-SUFFIX,download-cdn.jetbrains.com
 
 DOMAIN-SUFFIX,userstorage.mega.co.nz
