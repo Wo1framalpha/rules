@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,production.cloudfront.docker.com
 DOMAIN,dl-cdn.alpinelinux.org
 
 DOMAIN,video.twimg.com
+DOMAIN,video-s.twimg.com
 
 # emby站
 DOMAIN-SUFFIX,hxd.as174.com
