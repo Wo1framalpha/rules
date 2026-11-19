@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,production.cloudfront.docker.com
 
 DOMAIN,dl-cdn.alpinelinux.org
 
+DOMAIN,releases.openai.com
+DOMAIN,persistent.oaistatic.com
+
 DOMAIN,video.twimg.com
 DOMAIN,video-s.twimg.com
 
